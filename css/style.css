@@ -30,6 +30,12 @@ body{
 .star{
     color: rgb(212, 137, 32);
 }
+.awesome{
+    color: #289BDE;
+}
+.awesome2{
+    color: #99ccea;
+}
 .img-circle{
     width: 45px;
     height: 45px;
