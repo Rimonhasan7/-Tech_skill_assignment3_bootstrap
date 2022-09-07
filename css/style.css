@@ -11,6 +11,9 @@ body{
 .bg-color{
     background-color: #289BDE;
 }
+.bg-color2{
+    background-color: #F4FAFD;
+}
 .reg-btn{
     padding: 10px 20px;
     background-color: #ffff;
@@ -35,6 +38,7 @@ body{
 }
 .awesome2{
     color: #99ccea;
+    
 }
 .img-circle{
     width: 45px;
