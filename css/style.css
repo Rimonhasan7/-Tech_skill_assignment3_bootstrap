@@ -1,14 +1,15 @@
 /* font google  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
 /* common style in website */
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: 'Poppins', sans-serif;
 }
-.group-btn{
+
+.bg-color{
     background-color: #289BDE;
-}
-.group-color{
-    color: #289BDE;
 }
 .reg-btn{
     padding: 10px 20px;
@@ -16,6 +17,13 @@ body{
     color: #289BDE;
     border-radius: 6px;
 }
-img{
-    max-width: 100%;
+.slide-btn{
+    padding: 10px 20px;
+    background-color: #289BDE;
+    color: #ffff;
+    border-radius: 6px;
+}
+.img-custom img{
+    max-height: 30px;
+    max-width: 130px;
 }
