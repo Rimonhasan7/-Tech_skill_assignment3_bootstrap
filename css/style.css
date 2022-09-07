@@ -1,0 +1,21 @@
+/* font google  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+/* common style in website */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.group-btn{
+    background-color: #289BDE;
+}
+.group-color{
+    color: #289BDE;
+}
+.reg-btn{
+    padding: 10px 20px;
+    background-color: #ffff;
+    color: #289BDE;
+    border-radius: 6px;
+}
+img{
+    max-width: 100%;
+}
